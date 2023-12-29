@@ -1,2 +1,4 @@
-# pacman_project
-In this project I used simple Python functions that generate logical sentences describing Pacman physics, aka pacphysics, and a SAT solver, pycosat, to solve the logical inference tasks associated with planning (generating action sequences to reach goal locations and eat all the dots), localization (finding oneself in a map, given a local sensor model), mapping (building the map from scratch), and SLAM (simultaneous localization and mapping).
+# Introduction-to-AI-Project2
+Project instructions and starting code for the second (and last) project of the course `Introduction to AI` @ UniTs.
+
+Here is the second project to be delivered by the 8th January. In the pdf you will find the instructions. The `search` folder contains all the .py you will need to make the whole project run. As is written in the instructions, you should modify just some files, other ones must be ignored. You can read all of them to get an idea on how the whole pipeline works but is not required. 
