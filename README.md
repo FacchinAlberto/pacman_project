@@ -1,2 +1,2 @@
 # pacman_project
-Repository that contains all the needed python files in order to develop logical sentences that describes pacman physics. Pycosat has been used as SAT solver for logical inference tasks such as planning, simultaneous localization and mapping (SLAM).
+In this project I used simple Python functions that generate logical sentences describing Pacman physics, aka pacphysics, and a SAT solver, pycosat, to solve the logical inference tasks associated with planning (generating action sequences to reach goal locations and eat all the dots), localization (finding oneself in a map, given a local sensor model), mapping (building the map from scratch), and SLAM (simultaneous localization and mapping).
